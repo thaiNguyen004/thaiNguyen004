@@ -1,25 +1,3 @@
-![Github gif logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvi.cleanpng.com%2Fpng-kt1whd%2F&psig=AOvVaw38uuiGsXh9VgK9bz_GEdzp&ust=1695724046572000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKj6yr_GxYEDFQAAAAAdAAAAABAE)
-
-<p align="center">
-    <br>
-    <img src="src/programming-languages.gif" alt="List of programming languages logos">
-    <br>
-    <br>
-    <br>
-    <br>
-    <!-- 
-        Plese don't fix the world 'porgramming' it is not a typo.
-        Well it is a typo but a working typo :) 
-    -->
-    <img src="https://cdn.abranhe.com/projects/porgramming-languages-logos/logo.svg" alt="programming gif">
-    <br>
-    <br>
-    <b>That I prefer :heart_eyes:</b>
-    <br>
-    <br>
-    <a href="https://languages.abranhe.com"><code>languages.abranhe.com</code></a>
-</p>
-
 ### Hi there 👋
 
 ## About me
@@ -39,12 +17,18 @@ Chủ yếu trong một ngày tôi dành hầu hết thời gian cho việc tự
 <details>
 <summary>Công nghệ tôi sử dụng</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Java      |
-|     2| MySQL     |
-|     3| Hibernate |
+| Rank | Languages |Logo        |
+|-----:|-----------|--------|
+|     1| Java      |![](https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_24x24.png) |
+|     2| MySQL     |        |
+|     3| Hibernate |        |
 |     4| Spring Framework |
 </details>
-Thằng nào ghé vào đây :raised_eyebrow:
-:point_up_2::nerd_face: Cho bố mày cái :star:. Thanks
+
+My lang and framework that prefer :nerd_face: :-1:
+<br>
+<br>
+![java-lang](https://github.com/thaiNguyen004/thaiNguyen004/blob/main/icons/java-original%20(1).svg)
+![apache](https://github.com/thaiNguyen004/thaiNguyen004/blob/main/icons/apache-svg.svg)
+![spring](https://github.com/thaiNguyen004/thaiNguyen004/blob/main/icons/spring-original-wordmark%20(1).svg)
+![mysql](https://github.com/thaiNguyen004/thaiNguyen004/blob/main/icons/mysql-original%20(1).svg)
