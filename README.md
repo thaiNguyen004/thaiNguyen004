@@ -3,7 +3,7 @@
 Từ ngày 29-09-2023 tôi bắt đầu rèn luyện học 16 giờ 1 ngày 
 và nó rất khó. Nếu tôi không dậy sớm bỏ qua ăn xuống cả 3 bữa hoặc có
 thể tiết kiệm 2 tiếng ngủ đi để làm mấy chuyện đó thì mới có thể đảm bảo
-học ** 16h ** một ngày!
+học *16h* một ngày!
 
 ## About me
 Xin chào bạn :raised_hand_with_fingers_splayed:! 
