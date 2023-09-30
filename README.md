@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Từ ngày 29-09-2023 tôi bắt đầu rèn luyện học 16 giờ 1 ngày 
+và nó rất khó. Nếu tôi không dậy sớm bỏ qua ăn xuống cả 3 bữa hoặc có
+thể tiết kiệm 2 tiếng ngủ đi để làm mấy chuyện đó thì mới có thể đảm bảo
+học ** 16h ** một ngày!
+
 ## About me
 Xin chào bạn :raised_hand_with_fingers_splayed:! 
 Ngọn gió nào đã đưa bạn tới đây vậy? Chúng ta đều đang sử dụng Github đấy. Phải nói chỗ này là một nơi tuyệt vời để chứa sourcecode của chúng mình nhỉ :money_mouth_face: .
