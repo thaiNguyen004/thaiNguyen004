@@ -19,11 +19,6 @@
 
 ### <img src="./images/stats.gif" width="30" height="30"> ***About Me***
 
-* 💼 Flutter Developer at [**CMC Global**](https://cmcglobal.com.vn/)
-* ❤️ I love writing Flutter, and learn about it
-* 📫 Ask me anything you want [**here**](https://github.com/xuuanthuc/xuuanthuc/issues), If I were alive, I would reply within seconds 😉
-* 🔭 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
-
 <br/>
 
 ### ***🛠 Tools & Technologies***
@@ -52,10 +47,8 @@
 <p align="center">
 <i>Let's connect and chat with me! Open to anything under the sun.</i>
  <p align="center">
-    	<code><a href="https://www.facebook.com/xuuanthuc"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
-	<code><a href="https://www.linkedin.com/in/xuan-thuc-b43a04288/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
-	<code><a href="https://twitter.com/XuuanThuc"><img width="30px" src="./images/twitter.png" title="Twitter"/></a></code>
-	<code><a href="mailto:xuuanthuc@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
+    	<code><a href="https://www.facebook.com/nguyennt004/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
+	<code><a href="https://open.spotify.com/user/31hgtoauy525ni5ipln64ilrhifq"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
   </p>   
 </p>
 
