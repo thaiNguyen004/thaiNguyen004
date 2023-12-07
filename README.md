@@ -1,19 +1,4 @@
-### Hi there 👋
-
-Từ ngày 29-09-2023 tôi bắt đầu rèn luyện học 16 giờ 1 ngày 
-và nó rất khó. Nếu tôi không dậy sớm bỏ qua ăn xuống cả 3 bữa hoặc có
-thể tiết kiệm 2 tiếng ngủ đi để làm mấy chuyện đó thì mới có thể đảm bảo
-học *16h* một ngày!
-
-## About me
-Xin chào bạn :raised_hand_with_fingers_splayed:! 
-Ngọn gió nào đã đưa bạn tới đây vậy? Chúng ta đều đang sử dụng Github đấy. Phải nói chỗ này là một nơi tuyệt vời để chứa sourcecode của chúng mình nhỉ :money_mouth_face: .
-Tôi hiện tại đang học tập về chuyên ngành CNTT tại Việt Nam. 
-Chủ yếu trong một ngày tôi dành hầu hết thời gian cho việc tự học :writing_hand: còn kiến thức ở trường 3 chữ nào đó thì chẳng học được gì :angry: [Cay đỏ d*i 	:flushed:]
-
-🌱 I’m currently learning knowledge about **Java complete, JPA with Hibernate and more...**...
-
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"> Hi, I'm <a>Xuan Thuc!</a></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"> Hi, I'm <a>Nguyen Nguyen!</a></h1>
   
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Flutter+Developer+from+Viet+Nam;Nice+to+meet+you...!"/>
@@ -73,5 +58,4 @@ Chủ yếu trong một ngày tôi dành hầu hết thời gian cho việc tự
 	<code><a href="mailto:xuuanthuc@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
   </p>   
 </p>
-
 
