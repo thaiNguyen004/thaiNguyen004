@@ -39,7 +39,7 @@
 <a href="https://spring.io/projects/spring-integration"><img src="https://img.shields.io/badge/spring%20integration-6.2.0-whitegreen"></a>
 <br>
 <!-- spring rest -->
-<a href="https://spring.io/projects/spring-data-rest"><img src="https://img.shields.io/badge/spring%20data%20rest-4.2.0-green"></a> <a href="https://spring.io/projects/spring-hateoas"><img src="https://img.shields.io/badge/spring%20hateoas-2.1.2-whitegreen"></a>
+<a href="https://spring.io/projects/spring-data-rest"><img src="https://img.shields.io/badge/spring%20data%20rest-4.2.0-green"></a> <a href="https://spring.io/projects/spring-hateoas"><img src="https://img.shields.io/badge/spring%20hateoas-2.1.2-whitegreen"></a> <a href="https://www.openapis.org/"><img src="https://img.shields.io/badge/openapi-3.1.0-green"></a>
 <br>
 <!-- spring message -->
 <a href="https://spring.io/projects/spring-kafka"><img src="https://img.shields.io/badge/spring%20apache%20kafka-3.1.0-orange"></a>
