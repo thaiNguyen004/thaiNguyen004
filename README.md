@@ -19,7 +19,10 @@
 <br/>
 
 ### ***🛠 Tools & Technologies***
-<img src="https://camo.githubusercontent.com/759e716061f189ccd9618fbbd96181f65070e9f5b80f7d91d56f0a1c88cff738/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a646b2d76657273696f6e32312d626c7565">  
+
+<a href="https://docs.oracle.com/en/java/javase/21/">
+	<img src="https://camo.githubusercontent.com/759e716061f189ccd9618fbbd96181f65070e9f5b80f7d91d56f0a1c88cff738/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a646b2d76657273696f6e32312d626c7565"> 
+</a>
 <a href="https://spring.io/projects/spring-boot">
 	<img src="https://img.shields.io/badge/springboot-3.2.0-green">
 </a>
