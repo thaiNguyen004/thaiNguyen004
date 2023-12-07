@@ -23,21 +23,26 @@
 <a href="https://docs.oracle.com/en/java/javase/21/"><img src="https://camo.githubusercontent.com/759e716061f189ccd9618fbbd96181f65070e9f5b80f7d91d56f0a1c88cff738/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a646b2d76657273696f6e32312d626c7565"> 
 <br>
 </a>
-
+<!-- spring core -->
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/springboot-3.2.0-green"></a> <a href="https://docs.spring.io/spring-framework/reference/"><img src="https://img.shields.io/badge/springcore-6.1.1-green"></a> 
- <a href="https://spring.io/projects/spring-data-envers"><img src="https://img.shields.io/badge/spring%20data%20envers-2.7.18-yellow"></a> <a href="https://spring.io/projects/spring-data-r2dbc"><img src="https://img.shields.io/badge/spring%20data%20r2dbc-3.2.0-green"></a> <a href="https://spring.io/projects/spring-data-cassandra"><img src="https://img.shields.io/badge/spring%20apache%20cassandra-4.2.0-green"></a>
 <br>
+<!-- spring data -->
+<a href="https://spring.io/projects/spring-data-envers"><img src="https://img.shields.io/badge/spring%20data%20envers-2.7.18-yellow"></a> <a href="https://spring.io/projects/spring-data-r2dbc"><img src="https://img.shields.io/badge/spring%20data%20r2dbc-3.2.0-green"></a> <a href="https://spring.io/projects/spring-data-cassandra"><img src="https://img.shields.io/badge/spring%20apache%20cassandra-4.2.0-green"></a>
+<br>
+<!-- spring security -->
 <a href="https://spring.io/projects/spring-authorization-server"><img src="https://img.shields.io/badge/spring%20oauth2-4.2.0-whitegreen"></a>
 <br>
+<!-- spring integration -->
 <a href="https://spring.io/projects/spring-integration"><img src="https://img.shields.io/badge/spring%20integration-6.2.0-whitegreen"></a>
 <br>
-<a href="https://spring.io/projects/spring-data-rest"><img src="https://img.shields.io/badge/spring%20data%20rest-4.2.0-green"></a> <a href="https://spring.io/projects/spring-integration"><img src="https://img.shields.io/badge/spring%20integration-6.2.0-whitegreen"></a>
+<!-- spring rest -->
+<a href="https://spring.io/projects/spring-data-rest"><img src="https://img.shields.io/badge/spring%20data%20rest-4.2.0-green"></a> <a href="https://spring.io/projects/spring-hateoas"><img src="https://img.shields.io/badge/spring%20integration-6.2.0-whitegreen"></a>
 <br>
+<!-- csdl -->
 <a href="https://dev.mysql.com/doc/relnotes/mysql/8.1/en/">
 	<img src="https://camo.githubusercontent.com/ee631a91ed48499c005e7c7417ba734a0646c1de111dac039ab5fbeb4fe8698e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d382e312e302d626c7565">
 </a>
-
-
+<!-- social media -->
 <img src="https://img.shields.io/badge/stackoverflow-orange">
 
 <br/>
