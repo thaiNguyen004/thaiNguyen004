@@ -19,7 +19,7 @@
 <br/>
 
 ### ***🛠 Tools & Technologies***
-<img src="https://img.shields.io/badge/jdk-21">
+<img src="https://img.shields.io/badge/jdk-version21-blue">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logoColor=white">
