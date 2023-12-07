@@ -6,8 +6,8 @@
   
 <p align="center">
   <em>
-    I am a self-taught <b>programmer</b>. Has a great fondness for <b>code</b> <img src="./images/profile_dev.svg" width="30px">
-    <br>enjoys learning <b>new technologies</b> <img src="./images/Designer.gif" width="36px"> and discovering the <b>essence of problems.</b>
+    Là một sinh viên học lĩnh vực <b>phát triển phẩm mềm</b> Việt Nam. Tôi sẽ học thật tốt để làm tròn trách nghiệp của một công dân Việt Nam Xã Hội Chủ Nghĩa Việt Nam. Nếu tôi được làm tổng bí thư đảng tôi sẽ kill hết mấy bọn phông bạt làm màu... Thế cho nó nhanh gọn.
+
   </em> 
   <br>
   <img src="./images/dog_2.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="./images/dog_1.gif" width="50" />
