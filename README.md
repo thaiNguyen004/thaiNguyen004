@@ -17,7 +17,7 @@ Chủ yếu trong một ngày tôi dành hầu hết thời gian cho việc tự
 - [x] :star::star::star::star::star::star::star::star::star:[Java SE](https://github.com/thaiNguyen004/Java-complete) 
 - [x] :star::star::star:[Servlet & JSP](https://github.com/thaiNguyen004/Servlet-JSP)                  
 - [x] :star::star::star::star::star::star::star:[JPA with Hibernate](https://github.com/thaiNguyen004/JPA-with-Hibernate) 
-- [x] :star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star:[Spring](https://github.com/thaiNguyen004/SPRING-SPRINGBOOT/tree/main)
+- [x] :star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star:[Spring framework](https://github.com/thaiNguyen004/SPRING-SPRINGBOOT/tree/main)
 
 <details>
 <summary>Công nghệ tôi sử dụng</summary>
