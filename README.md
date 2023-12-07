@@ -29,14 +29,21 @@
 <!-- spring data -->
 <a href="https://spring.io/projects/spring-data-envers"><img src="https://img.shields.io/badge/spring%20data%20envers-2.7.18-yellow"></a> <a href="https://spring.io/projects/spring-data-r2dbc"><img src="https://img.shields.io/badge/spring%20data%20r2dbc-3.2.0-green"></a> <a href="https://spring.io/projects/spring-data-cassandra"><img src="https://img.shields.io/badge/spring%20apache%20cassandra-4.2.0-green"></a>
 <br>
+<!-- web spring -->
+<a href="https://docs.spring.io/spring-framework/reference/web/webmvc.html"><img src="https://img.shields.io/badge/spring%20mvc-6.1.1-green"></a> <a href="https://docs.spring.io/spring-framework/reference/web/webflux.html"><img src="https://img.shields.io/badge/spring%20web%20flux-6.1.1-blue"></a>
+<br>
 <!-- spring security -->
-<a href="https://spring.io/projects/spring-authorization-server"><img src="https://img.shields.io/badge/spring%20oauth2-4.2.0-whitegreen"></a>
+<a href="https://spring.io/projects/spring-security"><img src="https://img.shields.io/badge/spring%20security-2.1.2-whitegreen"></a> <a href="https://spring.io/projects/spring-authorization-server"><img src="https://img.shields.io/badge/spring%20oauth2-4.2.0-whitegreen"></a>
 <br>
 <!-- spring integration -->
 <a href="https://spring.io/projects/spring-integration"><img src="https://img.shields.io/badge/spring%20integration-6.2.0-whitegreen"></a>
 <br>
 <!-- spring rest -->
 <a href="https://spring.io/projects/spring-data-rest"><img src="https://img.shields.io/badge/spring%20data%20rest-4.2.0-green"></a> <a href="https://spring.io/projects/spring-hateoas"><img src="https://img.shields.io/badge/spring%20integration-6.2.0-whitegreen"></a>
+<br>
+<!-- spring message -->
+<a href="https://spring.io/projects/spring-kafka"><img src="https://img.shields.io/badge/spring%20apache%20kafka-3.1.0-orange"></a>
+
 <br>
 <!-- csdl -->
 <a href="https://dev.mysql.com/doc/relnotes/mysql/8.1/en/">
