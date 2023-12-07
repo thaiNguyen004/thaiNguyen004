@@ -6,7 +6,7 @@
   
 <p align="center">
   <em>
-    Là một sinh viên học lĩnh vực <b>phát triển phẩm mềm</b> Việt Nam. Tôi sẽ học thật tốt để làm tròn trách nghiệp của một công dân Việt Nam Xã Hội Chủ Nghĩa Việt Nam. Nếu tôi được làm tổng bí thư đảng tôi sẽ kill hết mấy bọn phông bạt làm màu... Thế cho nó nhanh gọn.
+    Là một sinh viên học lĩnh vực <b>phát triển phẩm mềm</b> Việt Nam. Tôi sẽ học thật tốt để làm tròn trách nghiệp của một công dân của đất nước <b>CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM</b>. Nếu tôi được làm tổng bí thư đảng tôi sẽ kill hết mấy bọn phông bạt làm màu... Thế cho nó nhanh gọn.
 
   </em> 
   <br>
