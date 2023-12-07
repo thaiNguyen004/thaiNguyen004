@@ -21,7 +21,7 @@
 ### ***🛠 Tools & Technologies***
 
 <details>
-<summary>Click to expand</summary>
+<summary><img src="https://img.shields.io/badge/language-red"></summary>
 
 - Item 1
 - Item 2
