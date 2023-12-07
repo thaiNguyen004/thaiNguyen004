@@ -46,9 +46,7 @@
 
 <br>
 <!-- csdl -->
-<a href="https://dev.mysql.com/doc/relnotes/mysql/8.1/en/">
-	<img src="https://camo.githubusercontent.com/ee631a91ed48499c005e7c7417ba734a0646c1de111dac039ab5fbeb4fe8698e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d382e312e302d626c7565">
-</a>
+<a href="https://dev.mysql.com/doc/relnotes/mysql/8.1/en/"><img src="https://camo.githubusercontent.com/ee631a91ed48499c005e7c7417ba734a0646c1de111dac039ab5fbeb4fe8698e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d382e312e302d626c7565"></a> <a href="https://cassandra.apache.org/_/index.html"><img src="https://img.shields.io/badge/apache%20cassandra-4.1.3-blue"></a>
 <!-- social media -->
 <img src="https://img.shields.io/badge/stackoverflow-orange">
 
