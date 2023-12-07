@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-
+<img src="https://img.shields.io/badge/cassandra-0099CC?style=for-the-badge&&logoColor=white">
 <br/>
 <p align="center">
 <i>My interesting</i>
