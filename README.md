@@ -27,6 +27,8 @@
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/springboot-3.2.0-green"></a> <a href="https://docs.spring.io/spring-framework/reference/"><img src="https://img.shields.io/badge/springcore-6.1.1-green"></a> 
  <a href="https://spring.io/projects/spring-data-envers"><img src="https://img.shields.io/badge/spring%20data%20envers-2.7.18-yellow"></a> <a href="https://spring.io/projects/spring-data-r2dbc"><img src="https://img.shields.io/badge/spring%20data%20r2dbc-3.2.0-green"></a> <a href="https://spring.io/projects/spring-data-rest"><img src="https://img.shields.io/badge/spring%20data%20rest-4.2.0-green"></a> <a href="https://spring.io/projects/spring-data-cassandra"><img src="https://img.shields.io/badge/spring%20apache%20cassandra-4.2.0-green"></a>
 <br>
+<a href="https://spring.io/projects/spring-authorization-server"><img src="https://img.shields.io/badge/spring%20oauth2-4.2.0-whitegreen"></a>
+<br>
 <a href="https://dev.mysql.com/doc/relnotes/mysql/8.1/en/">
 	<img src="https://camo.githubusercontent.com/ee631a91ed48499c005e7c7417ba734a0646c1de111dac039ab5fbeb4fe8698e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d382e312e302d626c7565">
 </a>
