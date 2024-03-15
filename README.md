@@ -6,7 +6,7 @@ Những cuốn sách mà tôi đã đọc qua:
 - Java Persistence with Hibernate Second Edition of Hibernate in Action, authors: Christian Bauer and Gavin King
 - Spring in Action, Fifth Edition, author: Craig Walls
 - Grokking Algorithms 2ed, author: Aditya Bhargava
+- Spring Boot in Practice, author: Somnath Musib, foreword by Josh Long
 
 Now I am reading:
-- Spring Boot in Practice, author: Somnath Musib, foreword by Josh Long
-- Advanced Algorithms and Data Structures, author: Marcello La Rocca
+- 
